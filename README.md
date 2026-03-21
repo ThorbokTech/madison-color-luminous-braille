@@ -119,6 +119,12 @@ Madison Color represents a new generation of inclusive fashion, merging design, 
 
 DOI: https://doi.org/10.5281/zenodo.19141513
 
+## 📄 Full Memo
+
+This repository also includes the complete memo presenting the conceptual, technical, and research foundations of the project.
+
+👉 [Madison_Color memo (PDF)](Madison_Color_Luminous_Braille_Report.pdf.pdf)
+
 ---
 
 ## Repository Purpose
