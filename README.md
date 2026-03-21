@@ -1,6 +1,7 @@
-![Thorbok Tech](thorbok.png)
-
-![Madison Color](logo.png)
+<p align="center">
+  <img src="thorbok.png" width="250">
+  <img src="logo.png" width="250">
+</p>
 
 
 
