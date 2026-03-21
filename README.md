@@ -4,7 +4,7 @@
 </p>
 
 <br><br><br>
-# Madison Color – Luminous Braille Technology
+# Madison Color – Luminous Braille Wearable Interface System
 
 ## Overview
 
