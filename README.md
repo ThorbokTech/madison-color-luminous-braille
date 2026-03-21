@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="thorbok.png" width="250">
+  <img src="thorbok.png" width="250" style="margin-right: 40px;">
   <img src="logo.png" width="250">
 </p>
 
-
-
-
-
-
+<br><br><br>
 # Madison Color – Luminous Braille Technology
 
 ## Overview
