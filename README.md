@@ -2,6 +2,11 @@
 
 ![Madison Color](logo.png)
 
+
+
+
+
+
 # Madison Color – Luminous Braille Technology
 
 ## Overview
