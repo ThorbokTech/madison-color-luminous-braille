@@ -1,6 +1,6 @@
-![Thorbok Tech](thorbok%20tech%20fond%20noir%20avec%20R%20blanc.png)
+![Thorbok Tech](thorbok.png)
 
-![Madison Color](logo%20noir%20texte%20argent%C3%A9.png)
+![Madison Color](logo.png)
 
 # Madison Color – Luminous Braille Technology
 
