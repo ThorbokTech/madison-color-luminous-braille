@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="thorbok.png" width="250" style="margin-right: 40px;">
-  <img src="logo.png" width="250">
+  <img src="thorbok.png" width="260">
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="logo.png" width="260">
 </p>
 
 <br><br><br>
