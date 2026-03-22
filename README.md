@@ -6,7 +6,7 @@
 <br><br><br>
 # Madison Color – Luminous Braille Wearable Interface System
 
-## 📄 Research Document
+## 🚀 Official Research Project – Wearable Interface System
 
 Download the full research paper:
 
