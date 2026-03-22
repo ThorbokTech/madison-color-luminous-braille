@@ -6,6 +6,12 @@
 <br><br><br>
 # Madison Color – Luminous Braille Wearable Interface System
 
+## 📄 Research Document
+
+Download the full research paper:
+
+👉 [Thorbok Tech Research PDF](./Thorbok_Tech_Research_Overview.pdf)
+
 ## Overview
 
 Madison Color is an inclusive fashion innovation integrating luminous braille technology into clothing.
