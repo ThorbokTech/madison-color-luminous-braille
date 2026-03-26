@@ -8,7 +8,7 @@
 
 ## 🔗 Project Links
 
-- 📄 Medium Article: [https://medium.com/xxxxx](https://medium.com/p/a121d8d681f8?postPublishedType=initial)
+- 📄 Medium article explaining the vision: [https://medium.com/xxxxx](https://medium.com/p/a121d8d681f8?postPublishedType=initial)
 - 📊 Scientific Publication (DOI): [https://doi.org/10.5281/zenodo.19141513](https://doi.org/10.5281/zenodo.19141513)
 - 🌐 Website: [https://thorboktech.io](https://www.thorboktech.io/)
 
@@ -107,16 +107,6 @@ This project stands at the intersection of:
 - Wearable Technology  
 - Accessibility Innovation  
 - Human Interface Systems
-
----
-
-## 🌍 Ecosystem & Publications
-
-This project is part of the Thorbok Tech research ecosystem.
-
-- 📄 Medium: [Why we are building Thorbok Tech]([LIEN](https://medium.com/p/a121d8d681f8?postPublishedType=initial))
-- 📊 Zenodo DOI: https://doi.org/10.5281/zenodo.19141513
-- 🧠 Future arXiv publication: (coming soon)
   
 ---
 
@@ -136,11 +126,6 @@ Potential future applications include:
 Madison Color represents a new generation of inclusive fashion, merging design, technology, and social impact.
 
 ---
-
-## Scientific Publication
-
-- 📊 DOI: https://doi.org/10.5281/zenodo.19141513
-- 📄 Medium article explaining the vision: [https://medium.com/xxxxx](https://medium.com/p/a121d8d681f8?postPublishedType=initial)
 
 ## 📄 Full Memo
 
