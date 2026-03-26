@@ -8,9 +8,20 @@
 
 ## 🔗 Project Links
 
-- 📄 Medium article explaining the vision: [https://medium.com/xxxxx](https://medium.com/p/a121d8d681f8?postPublishedType=initial)
+- 📄 Medium article explaining the vision: 
 - 📊 Scientific Publication (DOI): [https://doi.org/10.5281/zenodo.19141513](https://doi.org/10.5281/zenodo.19141513)
+- https://www.producthunt.com/products/thorbok-tech
 - 🌐 Website: [https://thorboktech.io](https://www.thorboktech.io/)
+
+🔗 Project Links
+📄 Medium article (vision):
+[[https://medium.com/xxxxx](https://medium.com/@thorboktech/why-we-are-building-thorbok-tech-a121d8d681f8)]
+📊 Scientific Publication (DOI):
+https://doi.org/10.5281/zenodo.19141513
+🚀 We are live on Product Hunt — support the launch:
+👉 https://www.producthunt.com/products/thorbok-tech
+🌐 Official Website:
+https://thorboktech.io 
 
 ## 🚀 Official Research Project – Wearable Interface System
 
