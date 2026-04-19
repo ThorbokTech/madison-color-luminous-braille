@@ -103,7 +103,7 @@ Open to:
 - Technology development  
 - Investment opportunities  
 
-Contact: thorboktech@masonewingcorp.com
+Contact: contact@thorboktech.io
 
 ---
 
