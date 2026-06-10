@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="thorbok.png" width="250" style="margin-right: 60px;">
-  <img src="logo.png" width="250" style="margin-left: 60px;">
+  <img src="Thorbok Tech.png" width="250" style="margin-right: 60px;">
+  <img src="Madison Color.png" width="250" style="margin-left: 60px;">
 </p>
 
 <br><br><br>
